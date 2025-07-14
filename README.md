@@ -22,10 +22,9 @@ This project analyzes and predicts real estate unit prices using various machine
 
 ```
 .
-├── Source_code_(SSANAH_Group).ipynb   # Main Jupyter notebook with all code and analysis
+├── Source_code.ipynb   # Main Jupyter notebook with all code and analysis
 ├── Real estate.xlsx                   # Original dataset
 ├── Riyalstate.xlsx                    # Processed dataset (after feature engineering)
-├── ES304 CEP Report (SSANAH Group).docx # Project report (optional)
 ```
 
 ---
