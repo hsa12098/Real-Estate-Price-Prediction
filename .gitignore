@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+ENV/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+# *.xlsx
+# *.xlsm
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.pkl
+*.joblib
+*.sav
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Output files
+*.log
+*.out
+*.tmp
+
+# Project-specific
+# Riyalstate.xlsx
+# Real estate.xlsx 
+
+
+*.docx
